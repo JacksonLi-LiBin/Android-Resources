@@ -14,6 +14,11 @@ Google官方出品:
 ## [MVP](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
 
 ### 文章
+
+[The Model-View-Presenter (MVP) Pattern](https://msdn.microsoft.com/en-us/library/ff649571.aspx)  
+
+[Introduction to Model View Presenter on Android](http://konmik.com/post/introduction_to_model_view_presenter_on_android/)
+
 [浅谈Andorid开发中的MVP模式](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0225/3994.html)  
 
 [MVP IN ANDROID, PART 1](http://www.tinmegali.com/en/model-view-presenter-android-part-1/)  
@@ -34,6 +39,7 @@ Google官方出品:
 [MVP模式简单易懂的介绍方式](http://kaedea.com/2015/10/11/android-mvp-pattern/)  
 
 ### App||Demo
+
 [MVP Android Example](https://github.com/antoniolg/androidmvp)
 
 [android-boilerplate](https://github.com/ribot/android-boilerplate)  
@@ -49,6 +55,7 @@ Google官方出品:
 ## CleanArchitecture
 
 ### 文章
+
 [使用 Clean 架构开发 Android 应用详细指南](http://gold.xitu.io/entry/56d69ef2df0eea0051fd422e?utm_source=leopost&utm_medium=20160306&utm_campaign=weibo)
 
 [Clean Android Code](https://medium.com/android-news/clean-android-code-navigation-ui-27e5ea87f8d5#.i049eihq8)  
@@ -67,14 +74,17 @@ Google官方出品:
 
 [DBinding](https://github.com/tianzhijiexian/DBinding)    
 [MVVMLight](https://github.com/Kelin-Hong/MVVMLight)  
+
 ## Flux
 
 [实践移动端的 Flux 架构](http://www.wangchenlong.org/2016/03/12/1602/apply-flux-architecture/)
 
 
 ## 其他
+
 [选择恐惧症的福音！教你认清MVC，MVP和MVVM](http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/)
 
+[Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
 
 ## 大公司架构演进
 
